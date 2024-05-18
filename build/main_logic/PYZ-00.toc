@@ -1,0 +1,4173 @@
+('C:\\Users\\Arthur '
+ 'Alencar\\projetos\\retaguarda\\build\\main_logic\\PYZ-00.pyz',
+ [('PyQt5',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('aenum',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\__init__.py',
+   'PYMODULE'),
+  ('aenum._common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\_common.py',
+   'PYMODULE'),
+  ('aenum._constant',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\_constant.py',
+   'PYMODULE'),
+  ('aenum._enum',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\_enum.py',
+   'PYMODULE'),
+  ('aenum._py3',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\_py3.py',
+   'PYMODULE'),
+  ('aenum._tuple',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\aenum\\_tuple.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('attr',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._make',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('atualizar_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\atualizar_logic.py',
+   'PYMODULE'),
+  ('atualizar_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\atualizar_ui.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('brutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\brutils\\__init__.py',
+   'PYMODULE'),
+  ('brutils.cep',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\brutils\\cep.py',
+   'PYMODULE'),
+  ('brutils.cnpj',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\brutils\\cnpj.py',
+   'PYMODULE'),
+  ('brutils.cpf',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\brutils\\cpf.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachinedict',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\codingstatemachinedict.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.johabfreq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\johabfreq.py',
+   'PYMODULE'),
+  ('chardet.johabprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\johabprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.macromanprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\macromanprober.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.resultdict',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\resultdict.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.utf1632prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\utf1632prober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('conferencias_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\conferencias_logic.py',
+   'PYMODULE'),
+  ('conferencias_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\conferencias_ui.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dbf',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\__init__.py',
+   'PYMODULE'),
+  ('dbf.bridge',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\bridge.py',
+   'PYMODULE'),
+  ('dbf.constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\constants.py',
+   'PYMODULE'),
+  ('dbf.data_types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\data_types.py',
+   'PYMODULE'),
+  ('dbf.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\exceptions.py',
+   'PYMODULE'),
+  ('dbf.pql',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\pql.py',
+   'PYMODULE'),
+  ('dbf.tables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\tables.py',
+   'PYMODULE'),
+  ('dbf.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dbf\\utils.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('emissao_diversas_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\emissao_diversas_logic.py',
+   'PYMODULE'),
+  ('emissao_diversas_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\emissao_diversas_ui.py',
+   'PYMODULE'),
+  ('enviar_conferencia_logic',
+   'C:\\Users\\Arthur '
+   'Alencar\\projetos\\retaguarda\\enviar_conferencia_logic.py',
+   'PYMODULE'),
+  ('enviar_conferencia_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\enviar_conferencia_ui.py',
+   'PYMODULE'),
+  ('estoq_updater_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\estoq_updater_logic.py',
+   'PYMODULE'),
+  ('estoq_updater_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\estoq_updater_ui.py',
+   'PYMODULE'),
+  ('fiona',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\__init__.py',
+   'PYMODULE'),
+  ('fiona._show_versions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\_show_versions.py',
+   'PYMODULE'),
+  ('fiona.collection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\collection.py',
+   'PYMODULE'),
+  ('fiona.compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\compat.py',
+   'PYMODULE'),
+  ('fiona.drvsupport',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\drvsupport.py',
+   'PYMODULE'),
+  ('fiona.enums',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\enums.py',
+   'PYMODULE'),
+  ('fiona.env',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\env.py',
+   'PYMODULE'),
+  ('fiona.errors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\errors.py',
+   'PYMODULE'),
+  ('fiona.io',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\io.py',
+   'PYMODULE'),
+  ('fiona.logutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\logutils.py',
+   'PYMODULE'),
+  ('fiona.meta',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\meta.py',
+   'PYMODULE'),
+  ('fiona.model',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\model.py',
+   'PYMODULE'),
+  ('fiona.path',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\path.py',
+   'PYMODULE'),
+  ('fiona.rfc3339',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\rfc3339.py',
+   'PYMODULE'),
+  ('fiona.session',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\session.py',
+   'PYMODULE'),
+  ('fiona.vfs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\fiona\\vfs.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('funcionarios_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\funcionarios_logic.py',
+   'PYMODULE'),
+  ('funcionarios_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\funcionarios_ui.py',
+   'PYMODULE'),
+  ('geopandas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\__init__.py',
+   'PYMODULE'),
+  ('geopandas._compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\_compat.py',
+   'PYMODULE'),
+  ('geopandas._config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\_config.py',
+   'PYMODULE'),
+  ('geopandas._decorator',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\_decorator.py',
+   'PYMODULE'),
+  ('geopandas._vectorized',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\_vectorized.py',
+   'PYMODULE'),
+  ('geopandas._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\_version.py',
+   'PYMODULE'),
+  ('geopandas.array',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\array.py',
+   'PYMODULE'),
+  ('geopandas.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\base.py',
+   'PYMODULE'),
+  ('geopandas.datasets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\datasets\\__init__.py',
+   'PYMODULE'),
+  ('geopandas.explore',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\explore.py',
+   'PYMODULE'),
+  ('geopandas.geodataframe',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\geodataframe.py',
+   'PYMODULE'),
+  ('geopandas.geoseries',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\geoseries.py',
+   'PYMODULE'),
+  ('geopandas.io',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('geopandas.io._pyarrow_hotfix',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\io\\_pyarrow_hotfix.py',
+   'PYMODULE'),
+  ('geopandas.io.arrow',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\io\\arrow.py',
+   'PYMODULE'),
+  ('geopandas.io.file',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\io\\file.py',
+   'PYMODULE'),
+  ('geopandas.io.sql',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\io\\sql.py',
+   'PYMODULE'),
+  ('geopandas.plotting',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\plotting.py',
+   'PYMODULE'),
+  ('geopandas.sindex',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\sindex.py',
+   'PYMODULE'),
+  ('geopandas.tools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\__init__.py',
+   'PYMODULE'),
+  ('geopandas.tools._random',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\_random.py',
+   'PYMODULE'),
+  ('geopandas.tools._show_versions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\_show_versions.py',
+   'PYMODULE'),
+  ('geopandas.tools.clip',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\clip.py',
+   'PYMODULE'),
+  ('geopandas.tools.geocoding',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\geocoding.py',
+   'PYMODULE'),
+  ('geopandas.tools.hilbert_curve',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\hilbert_curve.py',
+   'PYMODULE'),
+  ('geopandas.tools.overlay',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\overlay.py',
+   'PYMODULE'),
+  ('geopandas.tools.sjoin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\sjoin.py',
+   'PYMODULE'),
+  ('geopandas.tools.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\geopandas\\tools\\util.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lojas_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\lojas_logic.py',
+   'PYMODULE'),
+  ('lojas_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\lojas_ui.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('main_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\main_ui.py',
+   'PYMODULE'),
+  ('mapas_financeiros_logic',
+   'C:\\Users\\Arthur '
+   'Alencar\\projetos\\retaguarda\\mapas_financeiros_logic.py',
+   'PYMODULE'),
+  ('mapas_financeiros_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\mapas_financeiros_ui.py',
+   'PYMODULE'),
+  ('menu_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\menu_logic.py',
+   'PYMODULE'),
+  ('menu_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\menu_ui.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('mysql',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.abstracts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\abstracts.py',
+   'PYMODULE'),
+  ('mysql.connector.authentication',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\authentication.py',
+   'PYMODULE'),
+  ('mysql.connector.charsets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\charsets.py',
+   'PYMODULE'),
+  ('mysql.connector.connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\connection.py',
+   'PYMODULE'),
+  ('mysql.connector.connection_cext',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\connection_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.conversion',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\conversion.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\cursor.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor_cext',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\cursor_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.custom_types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\custom_types.py',
+   'PYMODULE'),
+  ('mysql.connector.dbapi',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\dbapi.py',
+   'PYMODULE'),
+  ('mysql.connector.errorcode',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\errorcode.py',
+   'PYMODULE'),
+  ('mysql.connector.errors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\errors.py',
+   'PYMODULE'),
+  ('mysql.connector.locales',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\locales\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.logger',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\logger.py',
+   'PYMODULE'),
+  ('mysql.connector.network',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\network.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.context_propagation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\context_propagation.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.instrumentation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\instrumentation.py',
+   'PYMODULE'),
+  ('mysql.connector.optionfiles',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\optionfiles.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\plugins\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins.caching_sha2_password',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\plugins\\caching_sha2_password.py',
+   'PYMODULE'),
+  ('mysql.connector.pooling',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\pooling.py',
+   'PYMODULE'),
+  ('mysql.connector.protocol',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\protocol.py',
+   'PYMODULE'),
+  ('mysql.connector.types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\types.py',
+   'PYMODULE'),
+  ('mysql.connector.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\utils.py',
+   'PYMODULE'),
+  ('mysql.connector.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\connector\\version.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.attributes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\attributes\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.context',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\context\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.context.context',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\context\\context.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.environment_variables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\environment_variables.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._adapters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._collections',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._functools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._itertools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._meta',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._py39compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.importlib_metadata._text',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.metrics',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.metrics._internal',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\metrics\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.metrics._internal.instrument',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\metrics\\_internal\\instrument.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.metrics._internal.observation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\metrics\\_internal\\observation.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.environment_variables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\environment_variables.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.resources',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\resources\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.trace',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\trace\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.trace.id_generator',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\trace\\id_generator.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.trace.sampling',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\trace\\sampling.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\util\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.sdk.util.instrumentation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\sdk\\util\\instrumentation.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.semconv',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\semconv\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.semconv.resource',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\semconv\\resource\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.semconv.trace',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\semconv\\trace\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.trace',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\trace\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.trace.propagation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\trace\\propagation\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.trace.span',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\trace\\span.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.trace.status',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\trace\\status.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\util\\__init__.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.util._importlib_metadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\util\\_importlib_metadata.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.util._once',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\util\\_once.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.util._providers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\util\\_providers.py',
+   'PYMODULE'),
+  ('mysql.opentelemetry.util.types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mysql\\opentelemetry\\util\\types.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nfce_json_generator',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\nfce_json_generator.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyproj',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\__init__.py',
+   'PYMODULE'),
+  ('pyproj._show_versions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\_show_versions.py',
+   'PYMODULE'),
+  ('pyproj.aoi',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\aoi.py',
+   'PYMODULE'),
+  ('pyproj.crs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\__init__.py',
+   'PYMODULE'),
+  ('pyproj.crs._cf1x8',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\_cf1x8.py',
+   'PYMODULE'),
+  ('pyproj.crs.coordinate_operation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\coordinate_operation.py',
+   'PYMODULE'),
+  ('pyproj.crs.coordinate_system',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\coordinate_system.py',
+   'PYMODULE'),
+  ('pyproj.crs.crs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\crs.py',
+   'PYMODULE'),
+  ('pyproj.crs.datum',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\datum.py',
+   'PYMODULE'),
+  ('pyproj.crs.enums',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\crs\\enums.py',
+   'PYMODULE'),
+  ('pyproj.datadir',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\datadir.py',
+   'PYMODULE'),
+  ('pyproj.enums',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\enums.py',
+   'PYMODULE'),
+  ('pyproj.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\exceptions.py',
+   'PYMODULE'),
+  ('pyproj.geod',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\geod.py',
+   'PYMODULE'),
+  ('pyproj.network',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\network.py',
+   'PYMODULE'),
+  ('pyproj.proj',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\proj.py',
+   'PYMODULE'),
+  ('pyproj.sync',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\sync.py',
+   'PYMODULE'),
+  ('pyproj.transformer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\transformer.py',
+   'PYMODULE'),
+  ('pyproj.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pyproj\\utils.py',
+   'PYMODULE'),
+  ('pytz',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shapely',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\__init__.py',
+   'PYMODULE'),
+  ('shapely._enum',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\_enum.py',
+   'PYMODULE'),
+  ('shapely._geometry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\_geometry.py',
+   'PYMODULE'),
+  ('shapely._ragged_array',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\_ragged_array.py',
+   'PYMODULE'),
+  ('shapely._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\_version.py',
+   'PYMODULE'),
+  ('shapely.affinity',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\affinity.py',
+   'PYMODULE'),
+  ('shapely.algorithms',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\algorithms\\__init__.py',
+   'PYMODULE'),
+  ('shapely.algorithms._oriented_envelope',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\algorithms\\_oriented_envelope.py',
+   'PYMODULE'),
+  ('shapely.algorithms.cga',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\algorithms\\cga.py',
+   'PYMODULE'),
+  ('shapely.algorithms.polylabel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\algorithms\\polylabel.py',
+   'PYMODULE'),
+  ('shapely.constructive',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\constructive.py',
+   'PYMODULE'),
+  ('shapely.coordinates',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\coordinates.py',
+   'PYMODULE'),
+  ('shapely.coords',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\coords.py',
+   'PYMODULE'),
+  ('shapely.creation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\creation.py',
+   'PYMODULE'),
+  ('shapely.decorators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\decorators.py',
+   'PYMODULE'),
+  ('shapely.errors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\errors.py',
+   'PYMODULE'),
+  ('shapely.geometry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\__init__.py',
+   'PYMODULE'),
+  ('shapely.geometry.base',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\base.py',
+   'PYMODULE'),
+  ('shapely.geometry.collection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\collection.py',
+   'PYMODULE'),
+  ('shapely.geometry.geo',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\geo.py',
+   'PYMODULE'),
+  ('shapely.geometry.linestring',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\linestring.py',
+   'PYMODULE'),
+  ('shapely.geometry.multilinestring',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\multilinestring.py',
+   'PYMODULE'),
+  ('shapely.geometry.multipoint',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\multipoint.py',
+   'PYMODULE'),
+  ('shapely.geometry.multipolygon',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\multipolygon.py',
+   'PYMODULE'),
+  ('shapely.geometry.point',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\point.py',
+   'PYMODULE'),
+  ('shapely.geometry.polygon',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geometry\\polygon.py',
+   'PYMODULE'),
+  ('shapely.geos',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\geos.py',
+   'PYMODULE'),
+  ('shapely.io',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\io.py',
+   'PYMODULE'),
+  ('shapely.linear',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\linear.py',
+   'PYMODULE'),
+  ('shapely.measurement',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\measurement.py',
+   'PYMODULE'),
+  ('shapely.ops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\ops.py',
+   'PYMODULE'),
+  ('shapely.predicates',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\predicates.py',
+   'PYMODULE'),
+  ('shapely.prepared',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\prepared.py',
+   'PYMODULE'),
+  ('shapely.set_operations',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\set_operations.py',
+   'PYMODULE'),
+  ('shapely.strtree',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\strtree.py',
+   'PYMODULE'),
+  ('shapely.validation',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\validation.py',
+   'PYMODULE'),
+  ('shapely.wkb',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\wkb.py',
+   'PYMODULE'),
+  ('shapely.wkt',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\shapely\\wkt.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Roaming\\Python\\Python312\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('transferencias_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\transferencias_logic.py',
+   'PYMODULE'),
+  ('transferencias_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\transferencias_ui.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('user_session',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\user_session.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])
