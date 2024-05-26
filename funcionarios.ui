@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>582</width>
-    <height>610</height>
+    <height>630</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -163,8 +163,8 @@
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>220</x>
-     <y>560</y>
+     <x>210</x>
+     <y>590</y>
      <width>181</width>
      <height>31</height>
     </rect>
@@ -263,9 +263,9 @@
   <widget class="QPushButton" name="pushButton_2">
    <property name="geometry">
     <rect>
-     <x>160</x>
+     <x>130</x>
      <y>320</y>
-     <width>131</width>
+     <width>121</width>
      <height>31</height>
     </rect>
    </property>
@@ -281,9 +281,9 @@
   <widget class="QPushButton" name="pushButton_3">
    <property name="geometry">
     <rect>
-     <x>300</x>
+     <x>260</x>
      <y>320</y>
-     <width>131</width>
+     <width>91</width>
      <height>31</height>
     </rect>
    </property>
@@ -301,7 +301,7 @@
     <rect>
      <x>20</x>
      <y>320</y>
-     <width>131</width>
+     <width>101</width>
      <height>31</height>
     </rect>
    </property>
@@ -312,6 +312,52 @@
    </property>
    <property name="text">
     <string>Salvar Cadastro</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>550</y>
+     <width>181</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Senha de Cancelamento:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_4">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>550</y>
+     <width>111</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>320</y>
+     <width>191</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Alterar Senha de Cancelamento</string>
    </property>
   </widget>
  </widget>
