@@ -20,7 +20,6 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         self.lineEdit_10.installEventFilter(self)
         self.lineEdit_11.installEventFilter(self)
 
-
         # Inicializa o tableWidget e busca o próximo código disponível
         self.iniciar_tabela_lojas()
         proximo_codigo = self.buscar_proximo_codigo_loja()
@@ -28,7 +27,7 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         self.lineEdit_10.setAlignment(QtCore.Qt.AlignRight)
         self.lineEdit_11.setAlignment(QtCore.Qt.AlignRight)
 
-        #Colocar o cursos no CNPJ_line quando o programa abrir
+        # Colocar o cursos no CNPJ_line quando o programa abrir
         self.CNPJ_line.setFocus()
 
     def eventFilter(self, object, event):
@@ -36,11 +35,10 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
             self.formatar_valor()  # Chama a função de formatação quando o lineEdit perde o foco
             return False  # Retorna False para permitir que o evento continue sendo processado
         elif object == self.lineEdit_11 and event.type() == QtCore.QEvent.FocusOut:
-                self.formatar_telefone()  # Chama a função de formatação quando o lineEdit perde o foco
-                return False  # Retorna False para permitir que o evento continue sendo processado
+            self.formatar_telefone()  # Chama a função de formatação quando o lineEdit perde o foco
+            return False  # Retorna False para permitir que o evento continue sendo processado
         return super(StoreLogic, self).eventFilter(object, event)
 
-    
     def formatar_valor(self):
         texto = self.lineEdit_10.text()
         texto_limpo = re.sub(r'[^\d,]', '', texto)  # Remove tudo exceto dígitos e vírgula
@@ -61,7 +59,7 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         else:
             texto_formatado = "Número inválido"
         self.lineEdit_11.setText(texto_formatado)
-        
+
     def buscar_proximo_codigo_loja(self):
         conexao = mysql.connector.connect(
             host='34.151.192.214',
@@ -90,11 +88,11 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         )
 
         cursor = conexao.cursor()
-        cursor.execute("SELECT loja_cod, loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone FROM lojas ORDER BY loja ASC")
+        cursor.execute("SELECT loja_cod, loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone, nfe_ref1 FROM lojas ORDER BY loja ASC")
         
         self.tableWidget.setRowCount(0)
-        self.tableWidget.setColumnCount(11)  # Define o número de colunas
-        self.tableWidget.setHorizontalHeaderLabels(['Cód.', 'Loja', 'Empresa', 'CNPJ', 'Consumer Key', 'Consumer Secret', 'Token', 'Token Secret', 'Capital?', 'Limite NFe', 'Telefone'])
+        self.tableWidget.setColumnCount(12)  # Define o número de colunas
+        self.tableWidget.setHorizontalHeaderLabels(['Cód.', 'Loja', 'Empresa', 'CNPJ', 'Consumer Key', 'Consumer Secret', 'Token', 'Token Secret', 'Capital?', 'Limite NFe', 'Telefone', 'Referência NFe'])
 
         for row_number, row_data in enumerate(cursor):
             self.tableWidget.insertRow(row_number)
@@ -117,11 +115,12 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
                         data = valor_formatado
                     except ValueError:
                         pass  # Em caso de valor inválido, não faz nada
+                elif column_number == 11 and (data is None or data == ''):  # Checa nfe_ref1 para NULL ou vazio
+                    data = "Não informado"
                 item = QtWidgets.QTableWidgetItem(str(data))
                 self.tableWidget.setItem(row_number, column_number, item)
 
         # Definindo as larguras das colunas de forma proporcional ou fixa
-        # Por exemplo:
         self.tableWidget.setColumnWidth(0, 20)
         self.tableWidget.setColumnWidth(1, 120)
         self.tableWidget.setColumnWidth(2, 100)
@@ -133,11 +132,11 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         self.tableWidget.setColumnWidth(8, 60)
         self.tableWidget.setColumnWidth(9, 80)
         self.tableWidget.setColumnWidth(10, 120)
+        self.tableWidget.setColumnWidth(11, 100)  # Largura da nova coluna
         # Repita para as outras colunas conforme necessário
 
         cursor.close()
         conexao.close()
-
 
     def salvar_loja(self):
         conexao = mysql.connector.connect(
@@ -176,6 +175,8 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
             elif len(telefone) == 10:
                 telefone = f"({telefone[:2]}) {telefone[2:6]}-{telefone[6:]}"
             
+            nfe_ref1 = self.tableWidget.item(row, 11).text()  # Valor da nova coluna
+
             query = "SELECT COUNT(*) FROM lojas WHERE (loja = %s OR cnpj = %s) AND loja_cod != %s"
             cursor.execute(query, (loja, cnpj, loja_cod))
             if cursor.fetchone()[0] > 0:
@@ -193,10 +194,11 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
                 access_token_secret = %s,
                 capint = %s,
                 total_nfe_mensal = %s,
-                telefone = %s
+                telefone = %s,
+                nfe_ref1 = %s
             WHERE loja_cod = %s
             """
-            cursor.execute(query, (loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone, loja_cod))
+            cursor.execute(query, (loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone, nfe_ref1, loja_cod))
 
         conexao.commit()
         cursor.close()
@@ -249,6 +251,7 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         access_token = self.lineEdit_9.text()
         access_token_secret = self.lineEdit_7.text()
         telefone = self.lineEdit_11.text()
+        nfe_ref1 = self.lineEdit_12.text()  # Valor do novo campo
 
         # Remove caracteres de formatação do CNPJ (pontos, barra e traço)
         cnpj_input = re.sub(r'\D', '', cnpj_input)  # Remove tudo que não é dígito
@@ -266,7 +269,7 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
             return
 
         # Verifica se todos os campos estão preenchidos
-        if not all([loja, empresa, cnpj_input, consumer_key, consumer_secret, access_token, access_token_secret]):
+        if not all([loja, empresa, cnpj_input, consumer_key, consumer_secret, access_token, access_token_secret, nfe_ref1]):
             QtWidgets.QMessageBox.warning(self, "Dados Incompletos", "Por favor, preencha todos os dados para efetuar o cadastro")
             return
 
@@ -303,10 +306,10 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
 
         # Monta e executa a consulta SQL para inserir os dados
         query = """
-        INSERT INTO lojas (loja_cod, loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone) 
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO lojas (loja_cod, loja, empresa, cnpj, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone, nfe_ref1) 
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
-        cursor.execute(query, (loja_cod, loja, empresa, cnpj_input, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone))
+        cursor.execute(query, (loja_cod, loja, empresa, cnpj_input, consumer_key, consumer_secret, access_token, access_token_secret, capint, total_nfe_mensal, telefone, nfe_ref1))
 
         # Efetiva as mudanças no banco de dados
         conexao.commit()
@@ -323,6 +326,7 @@ class StoreLogic(QtWidgets.QDialog, Ui_Dialog):
         self.lineEdit_9.clear()
         self.lineEdit_7.clear()
         self.lineEdit_11.clear()
+        self.lineEdit_12.clear()  # Limpa o novo campo
 
         # Atualiza a tabela e o label com o próximo código de loja
         self.iniciar_tabela_lojas()

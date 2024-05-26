@@ -1,8 +1,8 @@
 from PyQt5 import QtWidgets, QtGui
 import funcionarios_ui
 import mysql.connector
-from PyQt5.QtCore import Qt 
-from PyQt5.QtWidgets import QMessageBox
+from PyQt5.QtCore import Qt
+from PyQt5.QtWidgets import QMessageBox, QInputDialog
 import brutils.cpf
 
 class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
@@ -15,9 +15,11 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
         self.pushButton.clicked.connect(self.cadastrar_funcionario)
         self.pushButton_2.clicked.connect(self.excluir_funcionario)
         self.pushButton_3.clicked.connect(self.alterar_senha)
+        self.pushButton_5.clicked.connect(self.alterar_senha_especial)
         self.comboBox_2.currentIndexChanged.connect(self.exibir_funcionarios_loja)
         self.pushButton_4.clicked.connect(self.salvar_alteracoes)
         self.comboBox_2.currentIndexChanged.connect(self.set_funcionario_code)
+        self.comboBox.currentIndexChanged.connect(self.habilitar_senha_especial)
 
         # Preencher comboboxes de lojas
         self.preencher_lojas()
@@ -25,9 +27,10 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
 
         # Iniciar comboBoxes em branco
         self.comboBox_2.setCurrentIndex(-1)
+        self.lineEdit_4.setEnabled(False)
 
     def preencher_cargos(self):
-        # Modificação 1: Preencher o comboBox com os cargos possíveis
+        # Preencher o comboBox com os cargos possíveis
         cargo_options = [
             'Administrador',
             'Assistente',
@@ -201,13 +204,14 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
         cpf = self.lineEdit_3.text().replace('.', '').replace('-', '')
         cargo = self.comboBox.currentText()
         senha = self.lineEdit.text()
+        senha_especial = self.lineEdit_4.text()
 
-        # Modificação 4: Verificar se todos os campos estão preenchidos
+        # Verificar se todos os campos estão preenchidos
         if not all([usuario, nome, cpf, cargo, senha]):
             QMessageBox.warning(self, "Aviso", "Todos os campos devem ser preenchidos!")
             return
 
-        # Modificação 3: Validar CPF
+        # Validar CPF
         if not brutils.cpf.validate(cpf):
             QMessageBox.warning(self, "Aviso", "CPF inválido!")
             return
@@ -224,7 +228,6 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
         }
         cargo_db = cargo_options.get(cargo)
 
-        senha = self.lineEdit.text()
         loja_cod = self.comboBox_2.currentText().split(" - ")[0] if self.comboBox_2.currentIndex() > 0 else ''
         loja = self.comboBox_2.currentText().split(" - ")[1] if self.comboBox_2.currentIndex() > 0 else ''
 
@@ -238,10 +241,10 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
             cursor = conexao.cursor()
 
             insert_query = """
-            INSERT INTO usuarios (loja_cod, loja, usuario, senha, cargo, nome, cpf)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
+            INSERT INTO usuarios (loja_cod, loja, usuario, senha, senha_especial, cargo, nome, cpf)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
             """
-            cursor.execute(insert_query, (loja_cod, loja, usuario, senha, cargo_db, nome, cpf))
+            cursor.execute(insert_query, (loja_cod, loja, usuario, senha, senha_especial if cargo_db == 'gerente' else '', cargo_db, nome, cpf))
             conexao.commit()
         except mysql.connector.Error as err:
             QMessageBox.critical(self, "Erro", f"Erro ao cadastrar funcionário: {err}")
@@ -254,23 +257,23 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
         self.lineEdit_2.clear()
         self.lineEdit_3.clear()
         self.lineEdit.clear()
+        self.lineEdit_4.clear()
         self.comboBox.setCurrentIndex(-1)
 
         # Atualiza o tableWidget e mostra mensagem de sucesso
         self.exibir_funcionarios_loja()
         QMessageBox.information(self, "Sucesso", "Cadastro de funcionário realizado com sucesso")
 
-
     def excluir_funcionario(self):
         selected_row = self.tableWidget.currentRow()
         if selected_row < 0:  # Verifica se alguma linha está selecionada
             QMessageBox.warning(self, "Aviso", "Selecione um funcionário para excluir")
             return
-        
+
         usuario = self.tableWidget.item(selected_row, 0).text()
-        confirm = QMessageBox.question(self, "Confirmar exclusão", 
-                                    "Tem certeza que deseja excluir esse funcionário?",
-                                    QMessageBox.Yes | QMessageBox.No)
+        confirm = QMessageBox.question(self, "Confirmar exclusão",
+                                       "Tem certeza que deseja excluir esse funcionário?",
+                                       QMessageBox.Yes | QMessageBox.No)
 
         if confirm == QMessageBox.Yes:
             try:
@@ -296,7 +299,6 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
                 if conexao:
                     conexao.close()
         self.set_funcionario_code()
-
 
     def alterar_senha(self):
         selected_row = self.tableWidget.currentRow()
@@ -329,6 +331,51 @@ class FuncionariosLogic(QtWidgets.QDialog, funcionarios_ui.Ui_Dialog):
             finally:
                 if conexao:
                     conexao.close()
+
+    def alterar_senha_especial(self):
+        selected_row = self.tableWidget.currentRow()
+        if selected_row < 0:  # Verifica se alguma linha está selecionada
+            QMessageBox.warning(self, "Aviso", "Selecione um funcionário para alterar a senha de cancelamento")
+            return
+
+        nome_funcionario = self.tableWidget.item(selected_row, 1).text()  # Obtém o nome para exibir na mensagem
+        usuario_funcionario = self.tableWidget.item(selected_row, 0).text()  # Obtém o usuário para atualizar a senha especial
+        cargo_funcionario = self.tableWidget.cellWidget(selected_row, 3).currentText()  # Obtém o cargo do funcionário
+
+        if cargo_funcionario != 'Gerente':
+            QMessageBox.warning(self, "Aviso", "Não é possível alterar a senha de cancelamento desse usuário. Apenas o Gerente possui senha de cancelamento")
+            return
+
+        nova_senha_especial, ok = QtWidgets.QInputDialog.getText(self, "Alterar Senha de Cancelamento", f"Digite a nova senha de cancelamento para {nome_funcionario}:")
+
+        if ok and nova_senha_especial:
+            try:
+                conexao = mysql.connector.connect(
+                    host='34.151.192.214',
+                    user='arthuraml',
+                    password='Ij{p=6$Y2Wits7bAo',
+                    database='bbcia'
+                )
+
+                cursor = conexao.cursor()
+                update_query = "UPDATE usuarios SET senha_especial = %s WHERE usuario = %s"
+                cursor.execute(update_query, (nova_senha_especial, usuario_funcionario))
+                conexao.commit()
+
+                QMessageBox.information(self, "Sucesso", f"Senha de cancelamento do funcionário '{nome_funcionario}' alterada com sucesso")
+            except mysql.connector.Error as err:
+                QMessageBox.critical(self, "Erro", f"Erro ao se conectar ao MySQL: {err}")
+            finally:
+                if conexao:
+                    conexao.close()
+
+    def habilitar_senha_especial(self):
+        cargo = self.comboBox.currentText()
+        if cargo == 'Gerente':
+            self.lineEdit_4.setEnabled(True)
+        else:
+            self.lineEdit_4.clear()
+            self.lineEdit_4.setEnabled(False)
 
 if __name__ == "__main__":
     import sys

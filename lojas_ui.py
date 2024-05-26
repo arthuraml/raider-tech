@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
-        Dialog.resize(660, 614)
+        Dialog.resize(660, 633)
         self.label = QtWidgets.QLabel(Dialog)
         self.label.setGeometry(QtCore.QRect(300, 10, 101, 51))
         font = QtGui.QFont()
@@ -136,7 +136,7 @@ class Ui_Dialog(object):
         self.radioButton_2.setFont(font)
         self.radioButton_2.setObjectName("radioButton_2")
         self.pushButton_5 = QtWidgets.QPushButton(Dialog)
-        self.pushButton_5.setGeometry(QtCore.QRect(250, 570, 111, 31))
+        self.pushButton_5.setGeometry(QtCore.QRect(250, 590, 111, 31))
         font = QtGui.QFont()
         font.setPointSize(10)
         self.pushButton_5.setFont(font)
@@ -159,6 +159,15 @@ class Ui_Dialog(object):
         self.lineEdit_11 = QtWidgets.QLineEdit(Dialog)
         self.lineEdit_11.setGeometry(QtCore.QRect(530, 370, 101, 20))
         self.lineEdit_11.setObjectName("lineEdit_11")
+        self.lineEdit_12 = QtWidgets.QLineEdit(Dialog)
+        self.lineEdit_12.setGeometry(QtCore.QRect(490, 550, 141, 20))
+        self.lineEdit_12.setObjectName("lineEdit_12")
+        self.label_20 = QtWidgets.QLabel(Dialog)
+        self.label_20.setGeometry(QtCore.QRect(330, 550, 131, 21))
+        font = QtGui.QFont()
+        font.setPointSize(12)
+        self.label_20.setFont(font)
+        self.label_20.setObjectName("label_20")
 
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
@@ -199,6 +208,7 @@ class Ui_Dialog(object):
         self.pushButton_5.setText(_translate("Dialog", "Cadastrar Loja"))
         self.label_18.setText(_translate("Dialog", "Limite NFe:"))
         self.label_19.setText(_translate("Dialog", "Telefone:"))
+        self.label_20.setText(_translate("Dialog", "Referência NFe:"))
 
 
 if __name__ == "__main__":
