@@ -14,6 +14,8 @@ from funcionarios_logic import FuncionariosLogic
 from lojas_logic import StoreLogic
 from atualizar_logic import AtualizadorSistema
 from emissao_diversas_logic import EmissaoDiversasLogic
+from cheques_logic import ChequesApp
+from promissorias_logic import PromissoriasApp
 
 class MainWindowLogic(QtWidgets.QMainWindow):
     def __init__(self, session):
@@ -33,6 +35,8 @@ class MainWindowLogic(QtWidgets.QMainWindow):
         self.ui.pushButton_9.clicked.connect(self.open_lojas)
         self.ui.pushButton_19.clicked.connect(self.open_atualizador)
         self.ui.pushButton_11.clicked.connect(self.open_emissao_nfe)
+        self.ui.pushButton_6.clicked.connect(self.open_cheques)
+        self.ui.pushButton_12.clicked.connect(self.open_promissorias)
 
     def get_mysql_connection(self):
         return mysql.connector.connect(
@@ -90,6 +94,14 @@ class MainWindowLogic(QtWidgets.QMainWindow):
     def open_emissao_nfe(self):
         self.emissao_diversas_window = EmissaoDiversasLogic()
         self.emissao_diversas_window.show()
+
+    def open_cheques(self):
+        self.cheques_window = ChequesApp()
+        self.cheques_window.show()
+
+    def open_promissorias(self):
+        self.promissorias_window = PromissoriasApp()
+        self.promissorias_window.show()
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)

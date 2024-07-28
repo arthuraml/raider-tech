@@ -1,6 +1,310 @@
 ('C:\\Users\\Arthur '
  'Alencar\\projetos\\retaguarda\\build\\main_logic\\PYZ-00.pyz',
- [('PyQt5',
+ [('PIL',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PyQt5',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
@@ -19,6 +323,10 @@
   ('_compression',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\Arthur '
@@ -478,6 +786,12 @@
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\version.py',
    'PYMODULE'),
+  ('cheques_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\cheques_logic.py',
+   'PYMODULE'),
+  ('cheques_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\cheques_ui.py',
+   'PYMODULE'),
   ('cmd',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
@@ -489,6 +803,10 @@
   ('codeop',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Users\\Arthur '
@@ -996,6 +1314,10 @@
   ('html.entities',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
    'PYMODULE'),
   ('http',
    'C:\\Users\\Arthur '
@@ -3414,6 +3736,12 @@
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
    'PYMODULE'),
+  ('promissorias_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\promissorias_logic.py',
+   'PYMODULE'),
+  ('promissorias_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\promissorias_ui.py',
+   'PYMODULE'),
   ('py_compile',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
@@ -3537,6 +3865,394 @@
   ('random',
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('reportlab',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.areas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\areas.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.legends',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\legends.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.piecharts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\piecharts.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.textlabels',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\textlabels.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\utils.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils3d',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\utils3d.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPDF',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPDF.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPM',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPM.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPS',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPS.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderSVG',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderSVG.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderbase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.shapes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\shapes.py',
+   'PYMODULE'),
+  ('reportlab.graphics.testshapes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\testshapes.py',
+   'PYMODULE'),
+  ('reportlab.graphics.transform',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\transform.py',
+   'PYMODULE'),
+  ('reportlab.graphics.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\utils.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgetbase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgetbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.flags',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\flags.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.markers',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\markers.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.signsandsymbols',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\signsandsymbols.py',
+   'PYMODULE'),
+  ('reportlab.lib',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.PyFontify',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\PyFontify.py',
+   'PYMODULE'),
+  ('reportlab.lib.abag',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\abag.py',
+   'PYMODULE'),
+  ('reportlab.lib.arciv',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\arciv.py',
+   'PYMODULE'),
+  ('reportlab.lib.attrmap',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\attrmap.py',
+   'PYMODULE'),
+  ('reportlab.lib.boxstuff',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\boxstuff.py',
+   'PYMODULE'),
+  ('reportlab.lib.colors',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\colors.py',
+   'PYMODULE'),
+  ('reportlab.lib.corp',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\corp.py',
+   'PYMODULE'),
+  ('reportlab.lib.enums',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\enums.py',
+   'PYMODULE'),
+  ('reportlab.lib.fonts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\fonts.py',
+   'PYMODULE'),
+  ('reportlab.lib.formatters',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\formatters.py',
+   'PYMODULE'),
+  ('reportlab.lib.geomutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\geomutils.py',
+   'PYMODULE'),
+  ('reportlab.lib.logger',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\logger.py',
+   'PYMODULE'),
+  ('reportlab.lib.normalDate',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\normalDate.py',
+   'PYMODULE'),
+  ('reportlab.lib.pagesizes',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\pagesizes.py',
+   'PYMODULE'),
+  ('reportlab.lib.pdfencrypt',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\pdfencrypt.py',
+   'PYMODULE'),
+  ('reportlab.lib.randomtext',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\randomtext.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_accel',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rl_accel.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_safe_eval',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rl_safe_eval.py',
+   'PYMODULE'),
+  ('reportlab.lib.rltempfile',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rltempfile.py',
+   'PYMODULE'),
+  ('reportlab.lib.rparsexml',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rparsexml.py',
+   'PYMODULE'),
+  ('reportlab.lib.sequencer',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\sequencer.py',
+   'PYMODULE'),
+  ('reportlab.lib.styles',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\styles.py',
+   'PYMODULE'),
+  ('reportlab.lib.textsplit',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\textsplit.py',
+   'PYMODULE'),
+  ('reportlab.lib.units',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\units.py',
+   'PYMODULE'),
+  ('reportlab.lib.utils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\utils.py',
+   'PYMODULE'),
+  ('reportlab.lib.validators',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\validators.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macexpert',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macexpert.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macroman',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_pdfdoc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_standard',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_standard.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_symbol',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_winansi',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_winansi.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_zapfdingbats',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courier',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courier.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierbold',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierboldoblique',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courieroblique',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courieroblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helvetica',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helvetica.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticabold',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticabold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaboldoblique',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaoblique',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_symbol',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbold',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbolditalic',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbolditalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesitalic',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesitalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesroman',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_zapfdingbats',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._glyphlist',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_glyphlist.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.acroform',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\acroform.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfdoc',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfmetrics',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfmetrics.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfutils',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfutils.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.rl_codecs',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\rl_codecs.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.ttfonts',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\ttfonts.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.canvas',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\canvas.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pathobject',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pathobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfgeom',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pdfgeom.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfimages',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pdfimages.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.textobject',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\textobject.py',
+   'PYMODULE'),
+  ('reportlab.platypus',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.platypus.doctemplate',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\doctemplate.py',
+   'PYMODULE'),
+  ('reportlab.platypus.flowables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\flowables.py',
+   'PYMODULE'),
+  ('reportlab.platypus.frames',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\frames.py',
+   'PYMODULE'),
+  ('reportlab.platypus.multicol',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\multicol.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paragraph',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\paragraph.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paraparser',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\paraparser.py',
+   'PYMODULE'),
+  ('reportlab.platypus.tables',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\tables.py',
+   'PYMODULE'),
+  ('reportlab.platypus.xpreformatted',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\xpreformatted.py',
+   'PYMODULE'),
+  ('reportlab.rl_config',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\rl_config.py',
+   'PYMODULE'),
+  ('reportlab.rl_settings',
+   'C:\\Users\\Arthur '
+   'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\rl_settings.py',
    'PYMODULE'),
   ('requests',
    'C:\\Users\\Arthur '

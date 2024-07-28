@@ -209,7 +209,7 @@ class MapasFinanceirosLogic(QtWidgets.QDialog):
         try:
             table = dbf.Table(nome_arquivo_dbf,
                             'LOJA_COD N(4, 0); DATA C(255); CUPOM N(10, 0); NM_PROD C(255); REF N(10, 0); '
-                            'PRC_PROD N(12, 2); QTD N(10, 2); ESTORNAD L; EST_TIMESP N(20, 0); '
+                            'PRC_PROD N(12, 2); QTD N(10, 2); ESTORNAD N(2, 0); EST_TIMESP N(20, 0); '
                             'CANCELAD N(1, 0); CANCELTIME N(20, 0); SUBTOTAL N(12, 2); TOTAL_ATAC N(12, 2); '
                             'TOTAL_VAR N(12, 2); PRECO_APL C(255); PONTA L; PROMO L; COD_VEND N(6, 0); '
                             'NOME_VEND C(255); LOJA C(255); TERMINAL N(6, 0); PAGAMENT L; '

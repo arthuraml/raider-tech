@@ -20,6 +20,8 @@ class TransferenciasApp(QtWidgets.QDialog, Ui_Dialog):
         self.lineEdit.returnPressed.connect(self.buscar_transferencias)
         self.lineEdit.setFocus()
         self.pushButton_5.clicked.connect(self.selecionar_todos)
+        data_atual = datetime.now().strftime("%d/%m/%Y")
+        self.lineEdit.setText(data_atual)
 
     def selecionar_todos(self):
         for ix in range(self.tableWidget.rowCount()):
@@ -129,8 +131,9 @@ class TransferenciasApp(QtWidgets.QDialog, Ui_Dialog):
                 checkbox = self.tableWidget.cellWidget(ix, 0)
                 if checkbox.isChecked():
                     codigo_transferencia = int(self.tableWidget.item(ix, 1).text())
-                    query = "SELECT * FROM transferencias WHERE codigo_transferencia = %s"
-                    cursor.execute(query, (codigo_transferencia,))
+                    loja_origem = self.tableWidget.item(ix, 3).text()
+                    query = "SELECT * FROM transferencias WHERE codigo_transferencia = %s and loja_origem_nome = %s"
+                    cursor.execute(query, (codigo_transferencia, loja_origem))
                     transferencias_detalhes = cursor.fetchall()
 
                     for detalhe in transferencias_detalhes:

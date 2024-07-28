@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>473</width>
-    <height>368</height>
+    <height>401</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -170,7 +170,7 @@
       <x>250</x>
       <y>140</y>
       <width>208</width>
-      <height>161</height>
+      <height>241</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -207,6 +207,30 @@
        </property>
        <property name="text">
         <string>Transferências</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_6">
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>Cheques</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_12">
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>Promissórias</string>
        </property>
       </widget>
      </item>

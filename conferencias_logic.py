@@ -62,6 +62,7 @@ class ConferenciasApp(QtWidgets.QDialog, Ui_Dialog):
         query = """
         SELECT razao, DATE_FORMAT(data, '%d/%m/%Y'), total, senha
         FROM conferencia
+        WHERE fechado = 1
         GROUP BY loja, razao, data, total, fechado, senha
         ORDER BY data DESC, loja ASC
         LIMIT 10
