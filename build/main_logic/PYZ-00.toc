@@ -1062,12 +1062,6 @@
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
    'PYMODULE'),
-  ('emissao_diversas_logic',
-   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\emissao_diversas_logic.py',
-   'PYMODULE'),
-  ('emissao_diversas_ui',
-   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\emissao_diversas_ui.py',
-   'PYMODULE'),
   ('enviar_conferencia_logic',
    'C:\\Users\\Arthur '
    'Alencar\\projetos\\retaguarda\\enviar_conferencia_logic.py',
@@ -1877,8 +1871,11 @@
    'C:\\Users\\Arthur '
    'Alencar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
    'PYMODULE'),
-  ('nfce_json_generator',
-   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\nfce_json_generator.py',
+  ('notas_fiscais_logic',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\notas_fiscais_logic.py',
+   'PYMODULE'),
+  ('notas_fiscais_ui',
+   'C:\\Users\\Arthur Alencar\\projetos\\retaguarda\\notas_fiscais_ui.py',
    'PYMODULE'),
   ('nturl2path',
    'C:\\Users\\Arthur '

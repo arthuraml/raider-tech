@@ -145,7 +145,7 @@ class Ui_MainWindow(object):
         self.pushButton_8.setText(_translate("MainWindow", "Enviar Conferência"))
         self.pushButton_9.setText(_translate("MainWindow", "Lojas"))
         self.pushButton_10.setText(_translate("MainWindow", "Funcionários"))
-        self.pushButton_11.setText(_translate("MainWindow", "Emissão de NFe"))
+        self.pushButton_11.setText(_translate("MainWindow", "Notas Fiscais Emitidas"))
         self.label.setText(_translate("MainWindow", "Usuário:"))
         self.label_7.setText(_translate("MainWindow", "(nome do funcionário)"))
         self.pushButton_31.setText(_translate("MainWindow", "Mapas Financeiros e Vendas"))

@@ -250,6 +250,7 @@ class MapasFinanceirosLogic(QtWidgets.QDialog):
 
                         for venda in vendas:
                             venda = list(venda)
+                            venda[25] = venda[25][:255]  # Truncar o nome do cliente para 255 caracteres
                             venda.append(data_str)  # Adiciona a data do lineEdit ao final de cada registro
                             table.append(tuple(venda))
 
